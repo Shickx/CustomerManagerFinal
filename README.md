@@ -1,6 +1,6 @@
 # Customer Manager Final Project
 
-Android final project written in Kotlin.
+A simple Android app for managing customers.
 
 ## Features
 
