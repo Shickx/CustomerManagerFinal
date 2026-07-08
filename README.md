@@ -1,4 +1,4 @@
-# Customer Manager Final Project
+# Customer Manager 
 
 A simple Android app for managing customers.
 
