@@ -17,7 +17,16 @@ Android final project written in Kotlin.
   - Delete customer.
 - Persistent storage with Room database.
 - List/table display mode toggle on the main screen.
+  
+## Tech Stack
 
+- Language: Kotlin
+- UI: XML layouts + Material Components
+- Architecture: MVVM + StateFlow
+- Database: Room (SQLite)
+- DI: Manual dependency injection via AppContainer
+- Build system: Gradle Kotlin DSL
+  
 ## How to Open
 
 1. Open Android Studio.
