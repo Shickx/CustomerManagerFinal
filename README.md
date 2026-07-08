@@ -27,14 +27,4 @@ A simple Android app for managing customers.
 - DI: Manual dependency injection via AppContainer
 - Build system: Gradle Kotlin DSL
   
-## How to Open
 
-1. Open Android Studio.
-2. Choose `Open`.
-3. Select the `CustomerManagerFinal` folder.
-4. Wait for Gradle sync.
-5. Run the app.
-
-## Main Package
-
-`com.example.customerlist`
